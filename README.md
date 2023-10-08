@@ -1,16 +1,14 @@
-### Hi there 👋
+# Kado
+-Flower code from: https://codepen.io/mdusmanansari/pen/BamepLe
 
-<!--
-**For-Haera/For-Haera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# Description
+Flower code tiktok trend 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Responsive Web -- bisa langsung disesuikan di file css --> style.css
+
+# Author
+- Flower Code : Dzaky Almer (@dziroodg)
+- Index Code : Dzaky Almer (@dziroodg)
+
+Thanks to codepan and Dzaky Almer
